@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/theoneapi_dwestrom/__init__.py
+src/theoneapi_dwestrom/the_one_api.py
+src/theoneapi_dwestrom.egg-info/PKG-INFO
+src/theoneapi_dwestrom.egg-info/SOURCES.txt
+src/theoneapi_dwestrom.egg-info/dependency_links.txt
+src/theoneapi_dwestrom.egg-info/top_level.txt
+src/theoneapi_dwestrom/resources/errors.py
+tests/test_auth_failure.py
+tests/test_get_movie.py
+tests/test_get_movie_quotes.py
+tests/test_get_movies.py
